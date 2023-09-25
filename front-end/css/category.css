@@ -1,0 +1,80 @@
+.category-part {
+    text-align: center;
+    padding-top: 4.5rem;
+}
+
+.category-item-part {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 13rem;
+    overflow: hidden;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    transition: 0.3s;
+    align-items: center;
+    cursor: pointer;
+    border-radius: 5px;
+    align-content: center;
+    padding: 6rem 5rem;
+}
+
+.main-cat-item-1 {
+    background-image: linear-gradient(to top, rgba(11, 11, 11, 0.413), rgba(0, 0, 0, 0.584)), url(../images/electrinic.jpg);
+}
+
+.main-cat-item-2 {
+    background-image: linear-gradient(to top, rgba(11, 11, 11, 0.413), rgba(0, 0, 0, 0.584)), url(../images/bag.jpg);
+}
+
+.main-cat-item-3 {
+    background-image: linear-gradient(to top, rgba(11, 11, 11, 0.413), rgba(0, 0, 0, 0.584)), url(../images/book.jpg);
+}
+
+.main-cat-item-4 {
+    background-image: linear-gradient(to top, rgba(11, 11, 11, 0.413), rgba(0, 0, 0, 0.584)), url(../images/cap.jpg);
+}
+
+.main-cat-item-5 {
+    background-image: linear-gradient(to top, rgba(11, 11, 11, 0.413), rgba(0, 0, 0, 0.584)), url(../images/bike.jpg);
+}
+
+.main-cat-item-6 {
+    background-image: linear-gradient(to top, rgba(11, 11, 11, 0.413), rgba(0, 0, 0, 0.584)), url(../images/cameraCat.jpg);
+}
+
+.main-cat-item-7 {
+    background-image: linear-gradient(to top, rgba(11, 11, 11, 0.413), rgba(0, 0, 0, 0.584)), url(../images/chair.jpg);
+}
+
+.main-cat-item-8 {
+    background-image: linear-gradient(to top, rgba(11, 11, 11, 0.413), rgba(0, 0, 0, 0.584)), url(../images/toy.jpg);
+}
+
+.main-cat-item-9 {
+    background-image: linear-gradient(to top, rgba(11, 11, 11, 0.413), rgba(0, 0, 0, 0.584)), url(../images/warm.jpg);
+}
+
+.main-cat-item-10 {
+    background-image: linear-gradient(to top, rgba(11, 11, 11, 0.413), rgba(0, 0, 0, 0.584)), url(../images/sneaker.jpg);
+}
+
+.main-cat-item-11 {
+    background-image: linear-gradient(to top, rgba(11, 11, 11, 0.413), rgba(0, 0, 0, 0.584)), url(../images/shop.jpg);
+}
+
+.main-cat-item-12 {
+    background-image: linear-gradient(to top, rgba(11, 11, 11, 0.413), rgba(0, 0, 0, 0.584)), url(../images/woman.jpg);
+}
+
+.category-item-part h2 {
+    font-size: 1.2rem;
+    transition: 0.3s;
+}
+
+.category-item-part:hover h2 {
+    transition: 0.3s;
+    border-bottom: 3px solid red;
+    transform: translateY(-8px);
+}

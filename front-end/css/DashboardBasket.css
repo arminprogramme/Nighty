@@ -1,0 +1,33 @@
+.pre-input-search,
+.fav-article-input-search {
+    margin: 0 12rem;
+    padding: 1.5rem 0;
+}
+
+.pre-product-search {
+    margin: 0 3rem;
+}
+
+.search-input {
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    border: 0;
+    padding: 0.9rem 1rem;
+    -webkit-box-shadow: 2px 0px 9px -1px rgba(168, 168, 168, 1);
+    -moz-box-shadow: 2px 0px 9px -1px rgba(168, 168, 168, 1);
+    box-shadow: 2px 0px 9px -1px rgba(168, 168, 168, 1);
+    -o-border-radius: 50px;
+}
+
+.search-product-button {
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    border: 0;
+    -webkit-box-shadow: 2px 0px 9px -1px rgba(168, 168, 168, 1);
+    -moz-box-shadow: 2px 0px 9px -1px rgba(168, 168, 168, 1);
+    box-shadow: 2px 0px 9px -1px rgba(168, 168, 168, 1);
+}

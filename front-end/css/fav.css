@@ -1,0 +1,31 @@
+.product-fav {
+    background-image: linear-gradient(to top, rgba(11, 11, 11, 0.413), rgba(0, 0, 0, 0.584)), url(../images//clothsShop.jpg);
+}
+
+.article-fav {
+    background-image: linear-gradient(to top, rgba(11, 11, 11, 0.413), rgba(0, 0, 0, 0.584)), url(https://img.freepik.com/free-photo/open-book_23-2147690478.jpg?t=st=1693149428~exp=1693150028~hmac=3e79a29359add125bfc47cbc3e59f5a1dbb8c100bd7f7bea6fde40da131c6d8a);
+    background-position: center;
+    background-size: cover;
+}
+
+.article-fav,
+.product-fav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50rem;
+    align-items: center;
+}
+
+.article-fav h1,
+.product-fav h1 {
+    transition: 0.3s;
+    font-size: 2rem;
+    color: #fff;
+}
+
+.article-fav:hover h1,
+.product-fav:hover h1 {
+    transform: translateY(-12px);
+    border-bottom: 4px solid red;
+}

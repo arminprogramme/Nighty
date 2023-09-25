@@ -1,0 +1,24 @@
+@media only screen and (max-width: 600px) {
+    .user-img {
+        width: 60rem;
+    }
+    .article-list-content {
+        padding: 0 0.07rem;
+    }
+    .text-article {
+        padding: 3rem 0.8rem!important;
+    }
+    .pre-product {
+        margin: 0 0;
+    }
+}
+
+@media only screen and (max-width: 670px) {
+    .pre-input-search {
+        margin: 0 0!important;
+    }
+    .pre-product-search,
+    .fav-article-input-search {
+        margin: 0 0;
+    }
+}

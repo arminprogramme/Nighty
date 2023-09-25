@@ -1,0 +1,22 @@
+.article-item img {
+    border-radius: 10px;
+}
+
+.article-item {
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.article-item p {
+    color: #646464;
+}
+
+.article-item:hover {
+    transition: 0.3s;
+    transform: translateY(-8px);
+}
+
+.article-item a:hover {
+    transition: 0.3s;
+    color: red;
+}

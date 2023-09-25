@@ -1,0 +1,13 @@
+.article-text-header {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text-article {
+    padding: 1rem 5rem;
+}
+
+.suggestion-article {
+    padding: 1.5rem 3rem;
+}

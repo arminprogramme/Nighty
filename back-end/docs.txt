@@ -1,0 +1,76 @@
+1-product
+    id
+    Name
+    price
+    img-1
+    img-2
+    desc
+    count
+    colors
+    brand
+    weight
+    dimensions
+    url
+    type => top , suggestion ,recently , special , latest viewer, rated , 
+
+
+///////////////////////////////////////////////////
+
+2-comment
+    id
+    img
+    fullName
+    date
+    text
+
+//////////////////////////////////////////
+
+3-category => for products
+    id
+    img
+    title
+
+//////////////////////////////////////////
+
+4-article 
+    id
+    title
+    category
+    img
+
+////////////////////////////////////////
+
+5-basket
+    id
+    nameProduct
+    mainPrice
+    count
+    totalPrice
+
+//////////////////////////////////////////////
+
+6-fav article
+    id
+    img 
+    title
+    category
+
+///////////////////////////////////////////////
+
+7-fav product
+    id
+    nameProduct
+    price
+    img-1
+    img-2
+    desc
+    count
+    colors
+    brand
+    weight
+    dimensions
+    url
+    type => top , suggestion ,recently , special , latest viewer, rated , 
+
+
+//////////////////////////////////////////////////////////

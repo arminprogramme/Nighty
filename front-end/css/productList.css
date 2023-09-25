@@ -1,0 +1,28 @@
+.product-page {
+    background-image: linear-gradient(to top, rgba(11, 11, 11, 0.413), rgba(0, 0, 0, 0.584)), url(../images/clock.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.product-list-body {
+    padding: 6rem 0;
+}
+
+.pagination {
+    display: inline-block;
+    padding-top: 5rem;
+}
+
+.pagination a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+.active-page {
+    background-color: #c81e1e;
+    color: #fff!important;
+    border-radius: 10px;
+}

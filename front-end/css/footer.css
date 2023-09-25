@@ -1,0 +1,15 @@
+.footer {
+    background-color: #f4f4f4;
+}
+
+.footer img {
+    width: 3.5rem;
+}
+
+.top-link {
+    bottom: 5rem;
+    left: 4rem;
+    z-index: 9999;
+    cursor: pointer;
+    transition: 0.3s!important;
+}

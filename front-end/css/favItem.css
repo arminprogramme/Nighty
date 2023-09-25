@@ -1,0 +1,6 @@
+.fav-item-header {
+    background-image: linear-gradient(to top, rgba(11, 11, 11, 0.626), rgba(0, 0, 0, 0.584)), url(../images/bag.jpg)!important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

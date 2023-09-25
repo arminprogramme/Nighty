@@ -1,0 +1,25 @@
+.header {
+    background-image: url(../images/20230819104712_[fpdl.in]_portrait-excited-happy-shopaholic-woman-holding-shopping-bags-showing-plastic-credit-card-smiling-amazed-standing-against-pink-background_1258-122870_full.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header li {
+    transition: 0.4s;
+}
+
+.header li:hover {
+    border-top: 3px solid red;
+    transform: translateY(4px);
+    transition: 0.3s;
+}
+
+.menu img {
+    width: 1.5rem;
+}
+
+.banner-content {
+    padding-top: 13.3rem;
+    padding-bottom: 13rem;
+}

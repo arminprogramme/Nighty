@@ -1,0 +1,106 @@
+.premium-card {
+    background: #F2994A;
+    background: -webkit-linear-gradient(to right, #F2C94C, #F2994A);
+    background: linear-gradient(to right, #F2C94C, #ffc18b);
+    transition: 0.3s;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -ms-transition: 0.3s;
+    -o-transition: 0.3s;
+}
+
+.premium-card:hover {
+    background: #F2994A;
+    transform: translateY(-0.25rem);
+    background: -webkit-linear-gradient(to right, #F2994A, #F2C94C);
+    background: linear-gradient(to right, #F2994A, #F2C94C);
+    -webkit-transform: translateY(-0.25rem);
+    -moz-transform: translateY(-0.25rem);
+    -ms-transform: translateY(-0.25rem);
+    -o-transform: translateY(-0.25rem);
+}
+
+.premium-button,
+.gift-button,
+.suggest-button {
+    color: #000;
+    transition: 0.3s;
+    background-color: #fff;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -ms-transition: 0.3s;
+    -o-transition: 0.3s;
+}
+
+.premium-button:hover {
+    color: #fff;
+    transform: scale(1.09);
+    background-color: #de9100;
+    -webkit-transform: scale(1.09);
+    -moz-transform: scale(1.09);
+    -ms-transform: scale(1.09);
+    -o-transform: scale(1.09);
+}
+
+.gift-card {
+    background: #0575E6;
+    color: #fff;
+    background: -webkit-linear-gradient(to right, #021B79, #0575E6);
+    background: linear-gradient(to right, #021B79, #0575E6);
+}
+
+.gift-card:hover {
+    background: #0575E6;
+    color: #fff;
+    transform: translateY(-.25rem);
+    transition: 0.3s;
+    background: -webkit-linear-gradient(to right, #0575E6, #021B79);
+    background: linear-gradient(to right, #0575E6, #021B79);
+    -webkit-transform: translateY(-.25rem);
+    -moz-transform: translateY(-.25rem);
+    -ms-transform: translateY(-.25rem);
+    -o-transform: translateY(-.25rem);
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -ms-transition: 0.3s;
+    -o-transition: 0.3s;
+}
+
+.gift-button:hover {
+    color: #fff;
+    transform: scale(1.09);
+    background-color: #64b1ff;
+    -webkit-transform: scale(1.09);
+    -moz-transform: scale(1.09);
+    -ms-transform: scale(1.09);
+    -o-transform: scale(1.09);
+}
+
+.suggest-card {
+    background: #e96443;
+    color: #fff;
+    transition: 0.3s;
+    background: -webkit-linear-gradient(to right, #904e95, #e96443);
+    background: linear-gradient(to right, #904e95, #e96443);
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -ms-transition: 0.3s;
+    -o-transition: 0.3s;
+}
+
+.suggest-card:hover {
+    transform: translateY(-.25rem);
+    transition: 0.3s;
+    background: #e96443;
+    color: #fff;
+    background: -webkit-linear-gradient(to right, #904e95, #e96443);
+    background: linear-gradient(to right, #904e95, #e96443);
+    -webkit-transform: translateY(-.25rem);
+    -moz-transform: translateY(-.25rem);
+    -ms-transform: translateY(-.25rem);
+    -o-transform: translateY(-.25rem);
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -ms-transition: 0.3s;
+    -o-transition: 0.3s;
+}
